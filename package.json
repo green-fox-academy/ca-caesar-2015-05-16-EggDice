@@ -18,5 +18,9 @@
   "homepage": "https://github.com/greenfox-academy/ca-caesar-2015-05-16-EggDice#readme",
   "devDependencies": {
     "tape": "^4.6.3"
+  },
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "express": "^4.15.2"
   }
 }
