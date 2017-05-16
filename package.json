@@ -1,0 +1,22 @@
+{
+  "name": "ca-caesar",
+  "version": "1.0.0",
+  "description": "Cognitive Apprenticeship at Green Fox",
+  "main": "index.js",
+  "scripts": {
+    "test": "node chipher.test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/greenfox-academy/ca-caesar-2015-05-16-EggDice.git"
+  },
+  "author": "Tamas Kokeny",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/greenfox-academy/ca-caesar-2015-05-16-EggDice/issues"
+  },
+  "homepage": "https://github.com/greenfox-academy/ca-caesar-2015-05-16-EggDice#readme",
+  "devDependencies": {
+    "tape": "^4.6.3"
+  }
+}
