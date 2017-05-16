@@ -8,6 +8,7 @@ const chipher = require('./chipher')
 const app = express()
 
 app.use(bodyParser())
+app.use(express.static('public'))
 
 app.post('/api/chipher/:offset', (req, res) => {
   const offset = parseInt(req.params.offset)
